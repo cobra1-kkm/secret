@@ -1,0 +1,274 @@
+.principal-bloc{
+    position: relative;
+    left: 35%;
+    top: 55px;
+    background-color: aquamarine;
+    width: 25%;
+    height: 400px;
+}
+.calcul-bloc{
+    padding: 70px 0;
+    position: relative;
+    bottom: -30%;
+    left: 33px;
+    background-color: black;
+    width: 80%;
+    height: 10% ;
+}
+.result-bloc{
+    padding: 10px 0;
+    bottom: -10%; 
+    position: relative;
+    left: 33px;   
+    background-color: rebeccapurple;
+    width: 80%;
+    height: auto;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}     
+.bouton-bloc-0{
+    left: 20px;
+    position: relative;
+    bottom: -45px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-1{
+    left: 20px;
+    position: relative;
+    top: -30px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-2{
+    left: 55px;
+    position: relative;
+    top: -71px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-3{
+    left: 90px;
+    position: relative;
+    bottom: 112px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-4{
+    left: 20px;
+    position: relative;
+    top: -190px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-5{
+    left: 55px;
+    position: relative;
+    top: -231px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-6{
+    left: 90px;
+    position: relative;
+    bottom: 272px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-7{
+    left: 20px;
+    position: relative;
+    bottom: 350px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-8{
+    left: 55px;
+    position: relative;
+    bottom: 391px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-9{
+    left: 90px;
+    position: relative;
+    bottom: 432px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-del{
+    left: 125px;
+    position: relative;
+    bottom: 473px;
+    text-align: center;
+    background-color: orangered;
+    width: 21%;
+    height: 25px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif; 
+}
+.bouton-bloc-ac{
+    left: 185px;
+    position: relative;
+    top: -514px;
+    text-align: center;
+    background-color: orangered;
+    width: 21%;
+    height: 25px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif; 
+}.bouton-bloc-x{
+    left: 125px;
+    position: relative;
+    top: -518px;
+    text-align: center;
+    background-color: white;
+    width: 21%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-plus{
+    left: 125px;
+    position: relative;
+    top: -522px;
+    text-align: center;
+    background-color:  white;
+    width: 21%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc--{
+    left: 185px;
+    position: relative;
+    top: -563px;
+    text-align: center;
+    background-color: white;
+    width: 21%;
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-div{
+    left: 185px;
+    position: relative;
+    top: -641px;
+    text-align: center;
+    background-color: white;
+    width: 21%;     
+    height: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-point{
+    left: 55px;
+    position: relative;
+    top: -611px;
+    text-align: center;
+    background-color: white;
+    width: 10%;
+    height: 25px;
+}
+.bouton-bloc-point p{
+    color: black;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+}
+.bouton-bloc-puisance-de-10{
+    background-color: white;
+    text-align: center;
+    width: 15%;
+    height: 25px;
+    position: relative;
+    left: 90px;
+    bottom: 652px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+.bouton-bloc-egale{
+    background-color: white;
+    text-align: center;
+    width: 15%;
+    height: 25px;
+    position: relative;
+    left: 200px;
+    bottom: 693px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+.bouton-bloc-ans{
+    background-color: white;
+    text-align: center;
+    width: 15%;
+    height: 25px;
+    position: relative;
+    left: 145px;
+    bottom: 734px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}

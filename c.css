@@ -1,0 +1,14 @@
+.principal-bloc{
+    padding: 10PX;
+    bottom: -200px; 
+    position: relative;
+    left: 90px;   
+    background-color: gainsboro;
+    width: 80%;
+    height: auto;
+    color: red;
+    font-weight: bold;
+    letter-spacing: 6px;
+    font-family:sans-serif;
+    text-align: center;
+}
